@@ -1,0 +1,15 @@
+# package directories
+node_modules
+
+# Babel output
+dist
+
+# local storage files
+.DS_Store
+.vscode
+
+# environment
+.env
+
+# Docker
+.temp
