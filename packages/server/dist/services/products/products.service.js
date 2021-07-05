@@ -85,7 +85,7 @@ var _default = () => {
       categoria: product.categoria,
       sub_categoria: product.sub_categoria,
       tipo: product.tipo,
-      mcarca: product.marca,
+      marca: product.marca,
       precio: product.precio
     }));
     ctx.body = {
