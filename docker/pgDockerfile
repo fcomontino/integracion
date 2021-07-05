@@ -1,0 +1,3 @@
+FROM postgres:alpine
+
+ADD docker/scripts/extensions.sql /docker-entrypoint-initdb.d/
