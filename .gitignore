@@ -1,8 +1,5 @@
 # package directories
-node_modules
-
-# Babel output
-dist
+/node_modules
 
 # local storage files
 .DS_Store
@@ -10,6 +7,7 @@ dist
 
 # environment
 .env
+**/.env
 
 # Docker
 .temp
