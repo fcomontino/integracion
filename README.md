@@ -76,3 +76,17 @@ Levantar proyecto
 ```
 npm run dev
 ```
+
+### Colección Postman
+
+Colección de postman con los requst disponibles
+
+```
+https://www.postman.com/collections/95dbd4e92b31419a79d5
+```
+
+Documentación de la API
+
+```
+https://www.youtube.com/watch?v=RG-9JZ9gHwE&ab_channel=HoyosPictures
+```
