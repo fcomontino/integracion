@@ -88,5 +88,5 @@ https://www.postman.com/collections/95dbd4e92b31419a79d5
 Documentación de la API
 
 ```
-https://www.youtube.com/watch?v=RG-9JZ9gHwE&ab_channel=HoyosPictures
+https://documenter.getpostman.com/view/11073384/Tzm3pdTC
 ```
